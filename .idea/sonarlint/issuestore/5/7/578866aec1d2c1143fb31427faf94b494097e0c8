@@ -1,0 +1,13 @@
+
+Ksquid:S1068"(Remove this unused "tab3" private field.(ëÛ§‹øÿÿÿÿ8“ğË³”.
+"squid:ClassVariableVisibilityCheck"XMake pagerAdapter a static final constant or non-public and provide accessors if needed.(‡ìúò8Ç”Í³”.
+vsquid:S1450"XRemove the "tabLayout" field and declare it as a local variable in the relevant methods.(¤×ä8­å³”.
+vsquid:S1450"SRemove the "tab2" field and declare it as a local variable in the relevant methods.(ëÛ§‹øÿÿÿÿ8Æûå³”.
+nsquid:CallToDeprecatedMethod#"@Remove this use of "setOnTabSelectedListener"; it is deprecated.(°ü€:8İÄï³”.
+Esquid:S1659""Declare "tab2" on a separate line.(ëÛ§‹øÿÿÿÿ8“ğË³”.
+Ksquid:S1068"(Remove this unused "tab2" private field.(ëÛ§‹øÿÿÿÿ8“ğË³”.
+Esquid:S1659""Declare "tab3" on a separate line.(ëÛ§‹øÿÿÿÿ8“ğË³”.
+Ÿsquid:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÖˆÉé8úï³”.
+Ksquid:S1068"(Remove this unused "tab1" private field.(ëÛ§‹øÿÿÿÿ8“ğË³”.
+¤squid:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€Ô¸Æùÿÿÿÿ8úï³”.
+vsquid:S1450"SRemove the "tab1" field and declare it as a local variable in the relevant methods.(ëÛ§‹øÿÿÿÿ8­å³”.
